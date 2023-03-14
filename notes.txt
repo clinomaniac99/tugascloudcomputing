@@ -1,0 +1,33 @@
+Buat website, untuk membaca karya tulis fiksi dari penulis Indonesia
+Karya tulis berupa webnovel, minimal 700 kata per chapter
+Pembaca bisa login dan bertransaksi
+
+Login as a reader
+  ID / Username
+  Email
+  Password
+  Verify umur
+Jenis transaksi:
+  a) Isi cash (Kelipatan 1000, nominal terkecil 2000)
+    Metode pembayaran lokal (e-wallet, bank transfer, virtual account, qris, debit/credit card, dll.
+  b) Beli atau sewa per satu chapter.
+    Beli = simpan permanen di library akun, 1 chapter = 1000
+    Sewa = batas waktu 3 hari, bisa tersimpan di library akun selama 3 hari dan otomatis masa sewa habis jika countdown berakhir, 1 chapter = 500
+  c) Wait until free
+    Pembaca bisa menunggu 1 minggu untuk membaca 1 chapter dari 1 judul secara gratis; sistem sewa 3 hari.
+
+Login as an author
+Penulis bisa mengunggah tulisannya, imbuhkan gambar, atur jadwal update tulisannya, edit profil halaman penulis (informasi singkat, social media link)
+
+Setiap judul, memiliki:
+- Judul
+- Genre berserta sub-genrenya*
+- Keyword / tag*
+- Nama penulis*
+- Sinopsis
+- Cover
+*) ada halaman untuk masing-masingnya
+
+Halaman utama:
+- Ranking
+  real-time all genre, real-time sub-genre, best all genre, best sub-genre, new works, completed works
